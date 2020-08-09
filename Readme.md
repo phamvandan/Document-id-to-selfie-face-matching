@@ -19,5 +19,6 @@ Example:
 python3 main.py --model="/media/dan/Storage/Code/r100-triplet-chiya_v1_selfie_card_new/model,0" --det 0 -f test/
 ```
 _Note:_  
--det 0 : face detection and face matching mode
--det 1 : face matching only
+-det 0 : face detection and face matching mode  
+-det 1 : face matching only  
+-th 1: set the face matching threshold if not default=1.0
