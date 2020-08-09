@@ -16,9 +16,9 @@ https://drive.google.com/open?id=1qSwX7hDmww-A2Zwo5EUP9nZaOpc3RLJw
 ```
 cd Document-id-to-selfie-face-matching
 python3 main.py --model="path_to_model/model,0" --det 0 -f path_to_image_folder
-Example for arcface transfer learning:
+Example for **arcface transfer learning**:
 python3 main.py --model="/media/dan/Storage/Code/r100-triplet-chiya_v1_selfie_card_new/model,0" --det 0 -f test/
-Example for arcface pretrained:
+Example for **arcface pretrained**:
 python3 main.py --model="/media/dan/Storage/Code/model-r100-arcface-ms1m-refine-v2/model,0" --det 0 -f test/
 ```
 _Note:_  
