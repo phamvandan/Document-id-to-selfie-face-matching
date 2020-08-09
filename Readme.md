@@ -6,6 +6,7 @@ Install mxnet if your computer not have:
 Example: mxnet gpu for cuda-9.0
 pip install mxnet-cu90
 ```
+Git clone the repository:
 ```
 git clone https://github.com/phamvandan/Document-id-to-selfie-face-matching.git
 git clone https://github.com/deepinsight/insightface.git
